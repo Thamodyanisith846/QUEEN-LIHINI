@@ -1,12 +1,12 @@
 {
-  "name": "QUEEN LIHINI-MD ♡",
+  "name": "Queen Lihini-MD",
   "version": "1.0.0",
   "description": "The web script make by baileys",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name QUEEN LIHINI-MD ♡",
-    "stop": "pm2 stop QUEEN LIHINI-MD ♡",
-    "restart": "pm2 restart QUEEN LIHINI-MD ♡"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Queen Lihini-MD",
+    "stop": "pm2 stop Queen Lihini-MD",
+    "restart": "pm2 restart Queen Lihini-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:asitha-baliyes-new",
